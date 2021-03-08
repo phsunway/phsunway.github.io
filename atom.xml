@@ -3,11 +3,11 @@
   <title>PARCELHUB BANDAR SUNWAY</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://phsunway.netlify.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://phsunway.netlify.com/"/>
   <updated>2021-02-24T10:12:35.685Z</updated>
-  <id>http://example.com/</id>
+  <id>https://phsunway.netlify.com/</id>
   
   <author>
     <name>PARCELHUB BANDAR SUNWAY</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/02/24/hello-world/"/>
-    <id>http://example.com/2021/02/24/hello-world/</id>
+    <link href="https://phsunway.netlify.com/2021/02/24/hello-world/"/>
+    <id>https://phsunway.netlify.com/2021/02/24/hello-world/</id>
     <published>2021-02-24T04:49:18.420Z</published>
     <updated>2021-02-24T10:12:35.685Z</updated>
     
@@ -34,9 +34,9 @@
     
     
     
-    <category term="hello" scheme="http://example.com/tags/hello/"/>
+    <category term="hello" scheme="https://phsunway.netlify.com/tags/hello/"/>
     
-    <category term="world" scheme="http://example.com/tags/world/"/>
+    <category term="world" scheme="https://phsunway.netlify.com/tags/world/"/>
     
   </entry>
   
