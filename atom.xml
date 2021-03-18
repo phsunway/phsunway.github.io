@@ -6,7 +6,7 @@
   <link href="https://phsunway.netlify.com/atom.xml" rel="self"/>
   
   <link href="https://phsunway.netlify.com/"/>
-  <updated>2021-02-24T10:12:35.685Z</updated>
+  <updated>2021-03-18T03:41:46.887Z</updated>
   <id>https://phsunway.netlify.com/</id>
   
   <author>
@@ -17,26 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://phsunway.netlify.com/2021/02/24/hello-world/"/>
-    <id>https://phsunway.netlify.com/2021/02/24/hello-world/</id>
+    <title>Parcelhub tracking shipments快递单号查询</title>
+    <link href="https://phsunway.netlify.com/2021/02/24/Parcelhub%20tracking%20shipments%E5%BF%AB%E9%80%92%E5%8D%95%E5%8F%B7%E6%9F%A5%E8%AF%A2/"/>
+    <id>https://phsunway.netlify.com/2021/02/24/Parcelhub%20tracking%20shipments%E5%BF%AB%E9%80%92%E5%8D%95%E5%8F%B7%E6%9F%A5%E8%AF%A2/</id>
     <published>2021-02-24T04:49:18.420Z</published>
-    <updated>2021-02-24T10:12:35.685Z</updated>
+    <updated>2021-03-18T03:41:46.887Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-FMX"><a href="#1-FMX" class="headerlink" title="1. FMX"></a>1. FMX</h2><p>查询链接：<a href="http://www.freightmark.com.my/fmx/track-your-shipment/">http://www.freightmark.com.my/fmx/track-your-shipment/</a></p><p>EMAIL: <a href="mailto:fmxcs@freightmark.com.my">fmxcs@freightmark.com.my</a></p><p>HOTLINE:  <a href="tel:1700-818-369">1700-818-369</a></p><h2 id="2-CITY-LINK-EXPRESS"><a href="#2-CITY-LINK-EXPRESS" class="headerlink" title="2. CITY-LINK EXPRESS"></a>2. CITY-LINK EXPRESS</h2><p>查询链接：<a href="https://www.citylinkexpress.com/">https://www.citylinkexpress.com/</a></p><p>EMAIL: <a href="mailto:customerservice@citylinkexpress.com.my">customerservice@citylinkexpress.com.my</a></p><p>HOTLINE: 1300-882-489, +603-5033 3800</p><h2 id="3-CJ-CENTURY"><a href="#3-CJ-CENTURY" class="headerlink" title="3. CJ CENTURY"></a>3. CJ CENTURY</h2><p>查询链接：<a href="https://www.cjcentury.com/">https://www.cjcentury.com/</a></p><p>EMAIL: <a href="mailto:couriercs@cjcentury.com">couriercs@cjcentury.com</a></p><p>HOTLINE: <a href="https://www.cjcentury.com/#">1700-81-8282</a></p><h2 id="4-DHL"><a href="#4-DHL" class="headerlink" title="4. DHL"></a>4. DHL</h2><p>查询链接：<a href="https://www.dhl.com/my-en/home.html">https://www.dhl.com/my-en/home.html</a></p><p>HOTLINE:  <a href="tel:+60380658032">+60380658032</a></p><h2 id="5-ninja-van"><a href="#5-ninja-van" class="headerlink" title="5. ninja van"></a>5. ninja van</h2><p>查询链接：<a href="https://www.ninjavan.co/en-my/tracking">https://www.ninjavan.co/en-my/tracking</a></p><p>EMAIL: <a href="mailto:support_my@ninjavan.co">support_my@ninjavan.co</a></p><p>HOTLINE: [+60 111 7225600](tel:+60 111 7225600)</p><h2 id="6-LINE-CLEAR"><a href="#6-LINE-CLEAR" class="headerlink" title="6. LINE CLEAR"></a>6. LINE CLEAR</h2><p>查询链接：<a href="https://lineclearexpress.com/my/tracking">https://lineclearexpress.com/my/tracking</a></p><p>EMAIL: <a href="mailto:customersupport@lineclearexpress.com">customersupport@lineclearexpress.com</a></p><p>HOTLINE:  +603 5590 5590 </p><h2 id="7-SF-express顺丰速运"><a href="#7-SF-express顺丰速运" class="headerlink" title="7. SF express顺丰速运"></a>7. SF express顺丰速运</h2><p>查询链接：<a href="https://www.sf-international.com/my/en/">https://www.sf-international.com/my/en/</a></p><p>HOTLINE: 1800 18 3331</p><h2 id="8-Aramex"><a href="#8-Aramex" class="headerlink" title="8.  Aramex"></a>8.  Aramex</h2><p>查询链接：<a href="https://www.aramex.com/my/en/track/shipments">https://www.aramex.com/my/en/track/shipments</a></p><h2 id="9-Janio"><a href="#9-Janio" class="headerlink" title="9. Janio"></a>9. Janio</h2><p>查询链接：<a href="https://tracker.janio.asia/">https://tracker.janio.asia/</a></p><p>EMAIL: <a href="mailto:support@janio.asia">support@janio.asia</a></p><h2 id="10-shopee-express"><a href="#10-shopee-express" class="headerlink" title="10. shopee express"></a>10. shopee express</h2><p>查询链接：<a href="https://shopeexpress.com.my/#/">https://shopeexpress.com.my/#/</a></p><p>HOTLINE:  +603-2777-9222</p><h2 id="11-PostCo"><a href="#11-PostCo" class="headerlink" title="11. PostCo"></a>11. PostCo</h2><p>查询链接：<a href="https://postco.co/en-MY/track">https://postco.co/en-MY/track</a></p><p>EMAIL: <a href="mailto:info@postco.com.my">info@postco.com.my</a></p><h2 id="12-Flickpost"><a href="#12-Flickpost" class="headerlink" title="12. Flickpost"></a>12. Flickpost</h2><p>查询链接：<a href="https://flickpost.co/tracking/?lang=zh-hans">https://flickpost.co/tracking/?lang=zh-hans</a></p><p>EMAIL: <a href="mailto:hello@178.128.112.8">hello@178.128.112.8</a></p><p>HOTLINE:  <a href="tel:+1-800-817-278">1-800-817-278</a></p><h2 id="13-Pos-Laju"><a href="#13-Pos-Laju" class="headerlink" title="13. Pos Laju"></a>13. Pos Laju</h2><p>查询链接：<a href="https://www.pos.com.my/">https://www.pos.com.my/</a></p><p>EMAIL: <a href="mailto:care@pos.com.my">care@pos.com.my</a></p><p>HOTLINE:  <a href="tel:1-300-300-300">1-300-300-300</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h2 id=&quot;1-FMX&quot;&gt;&lt;a href=&quot;#1-FMX&quot; class=&quot;headerlink&quot; title=&quot;1. FMX&quot;&gt;&lt;/a&gt;1. FMX&lt;/h2&gt;&lt;p&gt;查询链接：&lt;a href=&quot;http://www.freightmark.com.my/fmx/track-yo</summary>
       
     
     
     
     
-    <category term="hello" scheme="https://phsunway.netlify.com/tags/hello/"/>
+    <category term="parcelhub bandar sunway" scheme="https://phsunway.netlify.com/tags/parcelhub-bandar-sunway/"/>
     
-    <category term="world" scheme="https://phsunway.netlify.com/tags/world/"/>
+    <category term="sunway parcelhub" scheme="https://phsunway.netlify.com/tags/sunway-parcelhub/"/>
+    
+    <category term="sunway courier sevrive" scheme="https://phsunway.netlify.com/tags/sunway-courier-sevrive/"/>
+    
+    <category term="双威快递服务" scheme="https://phsunway.netlify.com/tags/%E5%8F%8C%E5%A8%81%E5%BF%AB%E9%80%92%E6%9C%8D%E5%8A%A1/"/>
+    
+    <category term="马来西亚中国专线" scheme="https://phsunway.netlify.com/tags/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%B8%AD%E5%9B%BD%E4%B8%93%E7%BA%BF/"/>
+    
+    <category term="马来快递单号查询" scheme="https://phsunway.netlify.com/tags/%E9%A9%AC%E6%9D%A5%E5%BF%AB%E9%80%92%E5%8D%95%E5%8F%B7%E6%9F%A5%E8%AF%A2/"/>
+    
+    <category term="tracking shipments" scheme="https://phsunway.netlify.com/tags/tracking-shipments/"/>
     
   </entry>
   
