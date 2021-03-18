@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PARCELHUB BANDAR SUNWAY</title>
   
+  <subtitle>sunway双威城快递服务中心</subtitle>
+  <link href="https://www.phsunway.com/atom.xml" rel="self"/>
   
-  <link href="https://phsunway.netlify.com/atom.xml" rel="self"/>
-  
-  <link href="https://phsunway.netlify.com/"/>
+  <link href="https://www.phsunway.com/"/>
   <updated>2021-03-18T03:41:46.887Z</updated>
-  <id>https://phsunway.netlify.com/</id>
+  <id>https://www.phsunway.com/</id>
   
   <author>
     <name>PARCELHUB BANDAR SUNWAY</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Parcelhub tracking shipments快递单号查询</title>
-    <link href="https://phsunway.netlify.com/2021/02/24/Parcelhub%20tracking%20shipments%E5%BF%AB%E9%80%92%E5%8D%95%E5%8F%B7%E6%9F%A5%E8%AF%A2/"/>
-    <id>https://phsunway.netlify.com/2021/02/24/Parcelhub%20tracking%20shipments%E5%BF%AB%E9%80%92%E5%8D%95%E5%8F%B7%E6%9F%A5%E8%AF%A2/</id>
+    <link href="https://www.phsunway.com/2021/02/24/Parcelhub%20tracking%20shipments%E5%BF%AB%E9%80%92%E5%8D%95%E5%8F%B7%E6%9F%A5%E8%AF%A2/"/>
+    <id>https://www.phsunway.com/2021/02/24/Parcelhub%20tracking%20shipments%E5%BF%AB%E9%80%92%E5%8D%95%E5%8F%B7%E6%9F%A5%E8%AF%A2/</id>
     <published>2021-02-24T04:49:18.420Z</published>
     <updated>2021-03-18T03:41:46.887Z</updated>
     
@@ -34,19 +34,19 @@
     
     
     
-    <category term="parcelhub bandar sunway" scheme="https://phsunway.netlify.com/tags/parcelhub-bandar-sunway/"/>
+    <category term="parcelhub bandar sunway" scheme="https://www.phsunway.com/tags/parcelhub-bandar-sunway/"/>
     
-    <category term="sunway parcelhub" scheme="https://phsunway.netlify.com/tags/sunway-parcelhub/"/>
+    <category term="sunway parcelhub" scheme="https://www.phsunway.com/tags/sunway-parcelhub/"/>
     
-    <category term="sunway courier sevrive" scheme="https://phsunway.netlify.com/tags/sunway-courier-sevrive/"/>
+    <category term="sunway courier sevrive" scheme="https://www.phsunway.com/tags/sunway-courier-sevrive/"/>
     
-    <category term="双威快递服务" scheme="https://phsunway.netlify.com/tags/%E5%8F%8C%E5%A8%81%E5%BF%AB%E9%80%92%E6%9C%8D%E5%8A%A1/"/>
+    <category term="双威快递服务" scheme="https://www.phsunway.com/tags/%E5%8F%8C%E5%A8%81%E5%BF%AB%E9%80%92%E6%9C%8D%E5%8A%A1/"/>
     
-    <category term="马来西亚中国专线" scheme="https://phsunway.netlify.com/tags/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%B8%AD%E5%9B%BD%E4%B8%93%E7%BA%BF/"/>
+    <category term="马来西亚中国专线" scheme="https://www.phsunway.com/tags/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%B8%AD%E5%9B%BD%E4%B8%93%E7%BA%BF/"/>
     
-    <category term="马来快递单号查询" scheme="https://phsunway.netlify.com/tags/%E9%A9%AC%E6%9D%A5%E5%BF%AB%E9%80%92%E5%8D%95%E5%8F%B7%E6%9F%A5%E8%AF%A2/"/>
+    <category term="马来快递单号查询" scheme="https://www.phsunway.com/tags/%E9%A9%AC%E6%9D%A5%E5%BF%AB%E9%80%92%E5%8D%95%E5%8F%B7%E6%9F%A5%E8%AF%A2/"/>
     
-    <category term="tracking shipments" scheme="https://phsunway.netlify.com/tags/tracking-shipments/"/>
+    <category term="tracking shipments" scheme="https://www.phsunway.com/tags/tracking-shipments/"/>
     
   </entry>
   
