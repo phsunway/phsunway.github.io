@@ -975,11 +975,12 @@ pre .javascript .function {
 }
 .brand {
   border-bottom: none;
-  color: var(--brand-color);
+  color: #f00 !important;
   display: inline-block;
   line-height: 1.375em;
-  padding: 0 40px;
+  padding: 0 0px;
   position: relative;
+  text-shadow: #000 2px 3px 6px;
 }
 .brand:hover {
   color: var(--brand-hover-color);
@@ -987,6 +988,7 @@ pre .javascript .function {
 .site-title {
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 1.375em;
+  background: #fff !important;
   font-weight: normal;
   margin: 0;
 }
@@ -1168,7 +1170,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff28d1;
+  background: #ff17b9;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
