@@ -57,14 +57,14 @@
 <table>
 <thead>
 <tr>
-<th>SF EXPRESS</th>
-<th>PostCo</th>
-<th>Pos Laju</th>
+<th>Flickpost</th>
+<th></th>
+<th></th>
 </tr>
 </thead>
 <tbody><tr>
 <td><img src="https://drive.mpez.workers.dev/phsunway/logo/SFEXPRESS.png" alt="SF EXPRESS" style="zoom: 33%;" /></td>
-<td><img src="https://drive.mpez.workers.dev/phsunway/logo/POSTCO.png" alt="PostCo" style="zoom:3%;" /></td>
+<td><img src="https://drive.mpez.workers.dev/phsunway/logo/POSTCO.png" alt="PostCo" style="zoom:6%;" /></td>
 <td><img src="https://drive.mpez.workers.dev/phsunway/logo/Logo-Pos-Malaysia-Pos-Laju.png" alt="Pos Laju" style="zoom:33%;" /></td>
 </tr>
 <tr>
@@ -73,6 +73,7 @@
 <td><a href="https://www.phsunway.com/poslajutracking.html">点击查询</a></td>
 </tr>
 </tbody></table>
+<p>| <img src="https://drive.mpez.workers.dev/phsunway/logo/FLICKPOST.jpg" alt="Flickpost" style="zoom: 33%;" /> |  |  |<br>| <a href="https://www.phsunway.com/flickposttracking.html">点击查询</a> </p>
 ]]></content>
       <tags>
         <tag>parcelhub bandar sunway</tag>
